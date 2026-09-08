@@ -1,0 +1,28 @@
+.eds-enablement-block {
+    background: linear-gradient(135deg, #1d1d1d, #3a3a3a);
+    color: white;
+    padding: 48px 32px;
+    margin: 40px 0;
+    border-radius: 16px;
+    text-align: center;
+    box-shadow: 0 8px 24px rgb(0 0 0 / 20%);
+}
+
+.eds-enablement-block h2,
+.eds-enablement-block h3 {
+    color: white;
+    margin-bottom: 16px;
+}
+
+.eds-enablement-block p {
+    color: white;
+    font-size: 18px;
+}
+
+.eds-enablement-row {
+    margin-bottom: 12px;
+}
+
+.eds-enablement-row:last-child {
+    margin-bottom: 0;
+}
